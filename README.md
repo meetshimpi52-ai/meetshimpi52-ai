@@ -76,8 +76,8 @@ real-world intelligent applications.
 
 ## 📫 Connect With Me
 
-LinkedIn: (Add your LinkedIn link here)  
-Email: (Optional)
+LinkedIn: (https://www.linkedin.com/in/meet-shimpi-38a775385/) 
+Email: meetshimpi52@gmail.com
 
 ---
 

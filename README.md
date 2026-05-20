@@ -15,7 +15,7 @@ building intelligent systems and solving real-world problems using data.
 I enjoy:
 - 📊 Exploring datasets
 - 🧹 Cleaning and analyzing data
-- 🧠 Learning ML algorithms
+- 🧠 Learning ML algorithms and Deep Learning
 - 🔬 Understanding how AI systems work
 
 Currently focusing on strengthening my fundamentals in:
@@ -38,6 +38,7 @@ Data Cleaning
 Exploratory Data Analysis (EDA)  
 Statistics Basics  
 Machine Learning (Learning Phase)
+Deep Learning (Learning Phase)
 
 ---
 
@@ -54,7 +55,8 @@ Machine Learning (Learning Phase)
 🧹 Data Cleaning Project  
 - Handled missing values  
 - Removed duplicates  
-- Managed data types  
+- Managed data types
+- Basic analysis of data
 
 ---
 
@@ -63,7 +65,9 @@ Machine Learning (Learning Phase)
 - Supervised & Unsupervised Learning  
 - Scikit-learn  
 - Model Evaluation Techniques  
-- Feature Engineering  
+- Feature Engineering
+- Deep learning
+- HTML & CSS
 
 ---
 
